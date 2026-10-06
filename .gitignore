@@ -1,0 +1,21 @@
+.env
+config.local.json
+*.log
+backup_log.txt*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+*.spec
+tests/_runs/
+smoke_*/
+
+# Keep the reproducible application build specification
+!USB_Backup_V10.spec
+.env.*
+!.env.example
+*.zip
+*.usbbackup.partial
+
+.venv/

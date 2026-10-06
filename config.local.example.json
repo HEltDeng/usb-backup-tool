@@ -1,0 +1,6 @@
+{
+  "backup_root": "D:\\USB_Backup",
+  "upload_enabled": false,
+  "refresh_token": "replace_with_your_refresh_token",
+  "remote_root": "/USB_Backup"
+}
